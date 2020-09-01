@@ -1,0 +1,4 @@
+[06-May-2018 16:43:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/shapdiij/public_html/freeprojectcode.com/wp-content/themes/freeprojectcode/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shapdiij/public_html/freeprojectcode.com/wp-content/themes/freeprojectcode/404.php on line 10
